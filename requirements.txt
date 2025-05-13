@@ -1,0 +1,11 @@
+beautifulsoup4==4.13.4
+google_api_python_client==2.166.0
+keyboard==0.13.5
+numpy==2.2.5
+pandas==2.2.3
+Pillow==11.2.1
+praw==7.8.1
+pyperclip==1.9.0
+pytesseract==0.3.13
+Requests==2.32.3
+streamlink==7.3.0

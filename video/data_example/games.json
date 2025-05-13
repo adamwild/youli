@@ -1,0 +1,334 @@
+{
+    "366": [
+        {
+            "matchup": "FalconsSolar vs WBGSHIN - PYLON LE",
+            "players": [
+                "FalconsSolar",
+                "WBGSHIN"
+            ],
+            "map_names": [
+                "PYLON LE"
+            ]
+        },
+        8
+    ],
+    "988": [
+        {
+            "matchup": "WBGSHIN vs FalconsSolar - LEY LINES",
+            "players": [
+                "WBGSHIN",
+                "FalconsSolar"
+            ],
+            "map_names": [
+                "LEY LINES"
+            ]
+        },
+        8
+    ],
+    "1575": [
+        {
+            "matchup": "WBGSHIN vs FalconsSolar - PERSEPHONE LE",
+            "players": [
+                "WBGSHIN",
+                "FalconsSolar"
+            ],
+            "map_names": [
+                "PERSEPHONE LE"
+            ]
+        },
+        12
+    ],
+    "2868": [
+        {
+            "matchup": "MaxPax vs SHIN - INCORPOREAL LE",
+            "players": [
+                "MaxPax",
+                "SHIN"
+            ],
+            "map_names": [
+                "INCORPOREAL LE"
+            ]
+        },
+        5
+    ],
+    "3581": [
+        {
+            "matchup": "SHIN vs MaxPax - TORCHES LE",
+            "players": [
+                "SHIN",
+                "MaxPax",
+                "\u2018SHIN"
+            ],
+            "map_names": [
+                "TORCHES LE"
+            ]
+        },
+        11
+    ],
+    "4739": [
+        {
+            "matchup": "FalconsSolar vs ShoWTimE - INCORPOREAL LE",
+            "players": [
+                "FalconsSolar",
+                "ShoWTimE"
+            ],
+            "map_names": [
+                "INCORPOREAL LE"
+            ]
+        },
+        18
+    ],
+    "6250": [
+        {
+            "matchup": "FalconsSolar vs ShoWTimE - TOKAMAK LE",
+            "players": [
+                "FalconsSolar",
+                "ShoWTimE",
+                "sSolar"
+            ],
+            "map_names": [
+                "TOKAMAK LE"
+            ]
+        },
+        13
+    ],
+    "7201": [
+        {
+            "matchup": "ShoWTimE vs FalconsSolar - ULTRALOVE",
+            "players": [
+                "ShoWTimE",
+                "FalconsSolar"
+            ],
+            "map_names": [
+                "ULTRALOVE"
+            ]
+        },
+        7
+    ],
+    "8159": [
+        {
+            "matchup": "SHIN vs ShoWTimE - PERSEPHONE LE",
+            "players": [
+                "SHIN",
+                "ShoWTimE",
+                "\u2018SHIN"
+            ],
+            "map_names": [
+                "PERSEPHONE LE"
+            ]
+        },
+        11
+    ],
+    "9198": [
+        {
+            "matchup": "SHIN vs ShoWTimE - PYLON LE",
+            "players": [
+                "SHIN",
+                "ShoWTimE"
+            ],
+            "map_names": [
+                "PYLON LE"
+            ]
+        },
+        10
+    ],
+    "9982": [
+        {
+            "matchup": "SHIN vs ShoWTimE - INCORPOREAL LE",
+            "players": [
+                "SHIN",
+                "ShoWTimE",
+                "FalconsSolar",
+                "| MaxPax"
+            ],
+            "map_names": [
+                "INCORPOREAL LE",
+                "PYLON LE"
+            ]
+        },
+        12
+    ],
+    "10961": [
+        {
+            "matchup": "MaxPax vs FalconsSolar - TOKAMAK LE",
+            "players": [
+                "MaxPax",
+                "FalconsSolar"
+            ],
+            "map_names": [
+                "TOKAMAK LE"
+            ]
+        },
+        7
+    ],
+    "11525": [
+        {
+            "matchup": "MaxPax vs FalconsSolar - INCORPOREAL LE",
+            "players": [
+                "MaxPax",
+                "FalconsSolar",
+                "| MaxPax"
+            ],
+            "map_names": [
+                "INCORPOREAL LE"
+            ]
+        },
+        12
+    ],
+    "12341": [
+        {
+            "matchup": "FalconsSolar vs MaxPax - PYLON LE",
+            "players": [
+                "FalconsSolar",
+                "MaxPax"
+            ],
+            "map_names": [
+                "PYLON LE"
+            ]
+        },
+        4
+    ],
+    "13085": [
+        {
+            "matchup": "ShoWTimE vs MaxPax - LEY LINES",
+            "players": [
+                "ShoWTimE",
+                "MaxPax"
+            ],
+            "map_names": [
+                "LEY LINES"
+            ]
+        },
+        8
+    ],
+    "13715": [
+        {
+            "matchup": "ShoWTimE vs MaxPax - TOKAMAK LE",
+            "players": [
+                "ShoWTimE",
+                "MaxPax"
+            ],
+            "map_names": [
+                "TOKAMAK LE"
+            ]
+        },
+        6
+    ],
+    "14263": [
+        {
+            "matchup": "MaxPax vs ShoWTimE - PERSEPHONE LE",
+            "players": [
+                "MaxPax",
+                "ShoWTimE"
+            ],
+            "map_names": [
+                "PERSEPHONE LE"
+            ]
+        },
+        5
+    ],
+    "3403": [
+        {
+            "matchup": "SHIN vs MaxPax - TORCHES LE",
+            "players": [
+                "SHIN",
+                "MaxPax"
+            ],
+            "map_names": [
+                "TORCHES LE"
+            ]
+        },
+        1
+    ],
+    "2378": [
+        {
+            "matchup": "ShoWTimE vs FalconsSolar - INCORPOREAL LE",
+            "players": [
+                "ShoWTimE",
+                "FalconsSolar"
+            ],
+            "map_names": [
+                "INCORPOREAL LE"
+            ]
+        },
+        1
+    ],
+    "2966": [
+        {
+            "matchup": "ShoWTimE vs FalconsSolar - INCORPOREAL LE",
+            "players": [
+                "ShoWTimE",
+                "FalconsSolar"
+            ],
+            "map_names": [
+                "INCORPOREAL LE"
+            ]
+        },
+        1
+    ],
+    "3890": [
+        {
+            "matchup": "FalconsSolar vs ShoWTimE - TOKAMAK LE",
+            "players": [
+                "FalconsSolar",
+                "ShoWTimE"
+            ],
+            "map_names": [
+                "TOKAMAK LE"
+            ]
+        },
+        1
+    ],
+    "5799": [
+        {
+            "matchup": "SHIN vs ShoWTimE - PERSEPHONE LE",
+            "players": [
+                "SHIN",
+                "ShoWTimE"
+            ],
+            "map_names": [
+                "PERSEPHONE LE"
+            ]
+        },
+        1
+    ],
+    "12459": [
+        {
+            "matchup": "FalconsSolar vs MaxPax - PYLON LE",
+            "players": [
+                "FalconsSolar",
+                "MaxPax"
+            ],
+            "map_names": [
+                "PYLON LE"
+            ]
+        },
+        1
+    ],
+    "11354": [
+        {
+            "matchup": "ShoWTimE vs MaxPax - TOKAMAK LE",
+            "players": [
+                "ShoWTimE",
+                "MaxPax"
+            ],
+            "map_names": [
+                "TOKAMAK LE"
+            ]
+        },
+        1
+    ],
+    "14086": [
+        {
+            "matchup": "MaxPax vs ShoWTimE - PERSEPHONE LE",
+            "players": [
+                "MaxPax",
+                "ShoWTimE"
+            ],
+            "map_names": [
+                "PERSEPHONE LE"
+            ]
+        },
+        1
+    ]
+}
